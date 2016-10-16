@@ -1,0 +1,67 @@
+header {
+    height: 40px;
+    display: table;
+    width: 550px;
+}
+header a {
+    height: 40px;
+    display: table-cell;
+    line-height: 40px;
+    text-align: center;
+    background-color: #ccc;
+    color: #888;
+    text-decoration: underline;
+}
+header a:hover {
+    color: #000;
+}
+header a.active {
+    background-color: #fff;
+    color: #000;
+}
+header a.empty {
+    text-decoration: none;  
+}
+#doc {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 550px;
+    padding: 0;
+    background-color: #ccc;
+}
+#docnav {
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+}
+#docnav span,
+#docnav a {
+    height: 40px;
+    padding: 0 10px;
+    color: #000;
+    text-decoration: none;
+}
+#docnav span a {
+    padding: 0;
+}
+#docnav a:hover {
+    text-decoration: underline;
+}
+#pdf {
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 0;
+}
+#pdf iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+}

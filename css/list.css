@@ -1,0 +1,38 @@
+table#ogafp-list {
+    width: 100%;
+    margin-bottom: 50px;
+}
+table#ogafp-list th.column {
+    width: 80px;
+}
+table#ogafp-list tr:hover {
+    background-color: #eee;
+}
+table#ogafp-list tr.header,
+table#ogafp-list tr.header:hover {
+    background-color: #ccc;
+}
+table#ogafp-list tr.header th {
+    font-size: 7pt;
+    font-weight: normal;
+    height: 20px;
+}
+table#ogafp-list tr.bold th,
+table#ogafp-list tr.bold td {
+    font-weight: bold;
+}
+table#ogafp-list a {
+    text-decoration: none;
+}
+table#ogafp-list a:hover {
+    text-decoration: underline;
+}
+table#ogafp-list a.new {
+    color: #f00;
+}
+table#ogafp-list a.edit {
+    color: #090;
+}
+table#ogafp-list a.doc {
+    color: #000;
+}

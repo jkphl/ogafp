@@ -1,0 +1,107 @@
+html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+body, p, li, a, td, th, input, select {
+    font-family: Arial, "Arial Unicode MS", Helvetica, sans-serif;
+    font-size: 9pt;
+}
+body.white {
+    background-color: #fff;
+}
+body.doc {
+    background-color: #ccc;
+    overflow: hidden;
+}
+body.noscroll {
+    overflow: hidden;
+}
+body.pad,
+div.pad {
+    padding: 30px;
+}
+.error {
+	color: #f00;
+}
+p.success,
+p.error {
+    font-weight: bold;
+}
+.success {
+	color: #090;
+}
+textarea,
+input[type=text] {
+    font-family: Consolas;
+    margin: 0;
+    padding: 4px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #000;
+}
+textarea {
+    height: 146px;
+    resize: none;
+}
+textarea.centered {
+    text-align: center;
+}
+select {
+    font-family: Consolas;
+    width: 49%;
+    margin: 0 0 0 1%;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    -webkit-appearance: none;
+    cursor: pointer;
+    padding: 3px;
+    vertical-align: middle;
+}
+input[type=button],
+input[type=submit],
+button[type=submit] {
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid #000;
+    height: 24px;
+}
+table {
+    border-collapse: collapse;
+}
+h1 {
+    margin: 0 0 10px 0;
+}
+td, th {
+    padding: 0 20px 0 0;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+    height: 40px;
+    vertical-align: middle;
+}
+td:last-child, th:last-child {
+    padding-right: 0;
+}
+.right {
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
+span.highlight {
+    font-weight: bold;
+    color: #f00;
+}
+h2 {
+    margin-top: 40px;
+}
+h1 a {
+	text-decoration: none;
+	color: #000;
+	font-size: 7pt;
+}

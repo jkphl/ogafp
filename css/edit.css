@@ -1,0 +1,251 @@
+#pobox-label.full-width,
+#postal-code.full-width {
+    width: 100%;    
+}
+#pobox-label span,
+#postal-code span {
+    display: inline-block;
+    width: 25%;
+}
+#pobox-label,
+#postal-code {
+    display: inline-block;
+    vertical-align: middle;
+}
+#pobox-label.half-width {
+    width: 50%;
+    margin-bottom: 10px;
+}
+#pobox-label.half-width input,
+#pobox-label.half-width span {
+    width: 50%;
+}
+#pobox-label.full-width,
+#postal-code.full-width {
+    margin-bottom: 10px;
+}
+#pobox-label.full-width input {
+    width: 75%;
+}
+#postal-code.full-width input {
+    width: 37%;
+    margin-right: 1%;
+}
+#postal-code.full-width input:last-child {
+    margin-right: 0;
+}
+#align {
+    margin-bottom: 10px;
+}
+#editor {
+    width: 490px;
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    left: 0;
+    overflow-y: auto;
+    padding: 30px;
+}
+fieldset {
+    border: 1px solid #ccc;
+    margin: 10px 0 0 0;
+    padding: 4px;
+}
+div.fields {
+    line-height: 28px;
+}
+legend {
+    font-size: 7pt;
+    background-color: #fff;
+    padding: 0 4px;
+}
+input[type=button].field {
+    color: #f00;
+    border-color: #f00;
+}
+input[type=button].contained {
+    color: #aaa;
+    border-color: #ccc;
+}
+input[type=button][disabled] {
+    color: #0b0;
+    border-color: #ccc;
+    cursor: default;
+}
+p.controls {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+p.controls a {
+    color: #000;
+    text-decoration: none;
+    font-size: 7pt;
+}
+p.controls a:hover {
+    text-decoration: underline;
+}
+button.save {
+    height: 30px;
+    width: 33%;
+    box-sizing: border-box;
+    background-color: #ccc;
+}
+button.save:hover {
+    background-color: #eee;
+}
+button.save img {
+    vertical-align: middle;
+    margin-top: -4px;
+}
+#save {
+    float: left;
+}
+#savenextformat {
+    float: right;
+}
+
+
+#favourites {
+    float: right;
+    margin: 0;
+    height: 32px;
+}
+#favourites input[type=image] {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#favourites-container {
+    display: inline-block;
+    height: 32px;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+#favourites-container p {
+    margin: 0;
+    line-height: 32px;
+}
+#favourites ul {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    position: absolute;
+    max-height: 600px;
+    overflow-y: auto;
+    list-style-type: none;
+    left: 30px;
+    width: 490px;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    display: none;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px #999;
+    z-index: 10;
+}
+#favourites p:hover + ul,
+#favourites ul:hover {
+    display: block;
+}
+#favourites ul li {
+    cursor: pointer;
+    position: relative;
+    border-top: 1px solid #aaa;
+}
+#favourites ul li:first-child {
+    border-top: none;
+}
+#favourites ul li:hover {
+    background-color: #eee;
+}
+#favourites ul li input[type=image] {
+    float: right;
+    margin: 4px 4px 0 0;
+}
+#favourites div.favourite-label {
+    background-color: #666;
+    color: #fff;
+    position: absolute;
+    height: 16px;
+    line-height: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7pt;
+    padding: 0 4px;
+}
+#favourites ul li div.favourite-format {
+    white-space: pre;
+    font-family: Consolas;
+    padding: 26px 10px 10px 10px;
+}
+
+/* VORSCHAU-OPTIONEN */
+fieldset#preview {
+    border: 1px solid #444;
+    background-color: #444;
+    position: relative;
+}
+fieldset#preview legend {
+    background-color: #444;
+    border-radius: 3px;
+    color: #fff;
+    padding: 2px 4px;
+}
+fieldset#preview.multiline {
+    min-height: 116px;   
+}
+fieldset#preview address {
+    padding: 4px;
+    color: #fff;
+    white-space: pre-wrap;
+    font-family: Consolas;
+}
+fieldset#preview address.centered {
+    text-align: center;
+}
+fieldset#preview address span {
+    cursor: help;
+}
+fieldset#preview address li {
+    white-space: pre-wrap;
+    font-family: Consolas;
+}
+ul#preview-options {
+    list-style-type: none;
+    right: 0px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: 6px;
+    box-sizing: border-box;
+}
+ul#preview-options li {
+    padding: 4px;
+}
+ul#preview-options li.blind {
+    text-align: right;
+}
+ul#preview-options li.option {
+    display: none;   
+}
+ul#preview-options li.option label {
+    padding-right: 4px;
+    cursor: pointer;
+    display: block;
+}
+ul#preview-options li.option label:hover span {
+    text-decoration: underline;
+}
+ul#preview-options li.option input {
+    vertical-align: middle;
+}
+ul#preview-options:hover {
+    background: #fff;
+    box-shadow: 1px 1px 5px #999;
+}
+ul#preview-options:hover li.blind  {
+    display: none;
+}
+ul#preview-options:hover li.option {
+    display: block;
+}

@@ -1,0 +1,1502 @@
+WD	ABBOTS LANGLEY	Hertfordshire
+SA	ABERAERON	Dyfed
+CF	ABERDARE	Mid Glamorgan
+AB	ABERDEEN	Aberdeenshire
+LL	ABERDOVEY	Gwynedd
+PH	ABERFELDY	Perthshire
+NP	ABERGAVENNY	Gwent
+LL	ABERGELE	Clwyd
+AB	ABERLOUR	Banffshire
+NP	ABERTILLERY	Gwent
+SY	ABERYSTWYTH	Dyfed
+OX	ABINGDON	Oxfordshire
+AB	ABOYNE	Aberdeenshire
+BB	ACCRINGTON	Lancashire
+PH	ACHARACLE	Argyll
+IV	ACHNASHEEN	Ross-shire
+KT	ADDLESTONE	Surrey
+ML	AIRDRIE	Lanarkshire
+B	ALCESTER	Warwickshire
+IP	ALDEBURGH	Suffolk
+SK	ALDERLEY EDGE	Cheshire
+GU	ALDERSHOT	Hampshire
+G	ALEXANDRIA	Dunbartonshire
+AB	ALFORD	Aberdeenshire
+LN	ALFORD	Lincolnshire
+DE	ALFRETON	Derbyshire
+FK	ALLOA	Clackmannanshire
+IV	ALNESS	Ross-shire
+NE	ALNWICK	Northumberland
+SO	ALRESFORD	Hampshire
+CA	ALSTON	Cumbria
+GU	ALTON	Hampshire
+WA	ALTRINCHAM	Cheshire
+FK	ALVA	Clackmannanshire
+LA	AMBLESIDE	Cumbria
+HP	AMERSHAM	Buckinghamshire
+LL	AMLWCH	Gwynedd
+SA	AMMANFORD	Dyfed
+SP	ANDOVER	Hampshire
+DG	ANNAN	Dumfriesshire
+KY	ANSTRUTHER	Fife
+BT	ANTRIM	County Antrim
+PA	APPIN	Argyll
+CA	APPLEBY-IN-WESTMORLAND	Cumbria
+DD	ARBROATH	Angus
+IV	ARDGAY	Sutherland
+KA	ARDROSSAN	Ayrshire
+PH	ARISAIG	Inverness-shire
+SG	ARLESEY	Bedfordshire
+BT	ARMAGH	County Armagh
+G	ARROCHAR	Dunbartonshire
+LL	ARTHOG	Gwynedd
+BN	ARUNDEL	West Sussex
+SL	ASCOT	Berkshire
+DE	ASHBOURNE	Derbyshire
+LE	ASHBY-DE-LA-ZOUCH	Leicestershire
+TN	ASHFORD	Kent
+TW	ASHFORD	Middlesex
+NE	ASHINGTON	Northumberland
+KT	ASHTEAD	Surrey
+OL	ASHTON-UNDER-LYNE	Lancashire
+LA	ASKAM-IN-FURNESS	Cumbria
+CV	ATHERSTONE	Warwickshire
+NR	ATTLEBOROUGH	Norfolk
+PH	AUCHTERARDER	Perthshire
+BT	AUGHER	County Tyrone
+BT	AUGHNACLOY	County Tyrone
+PH	AVIEMORE	Inverness-shire
+IV	AVOCH	Ross-shire
+BS	AXBRIDGE	Somerset
+EX	AXMINSTER	Devon
+HP	AYLESBURY	Buckinghamshire
+ME	AYLESFORD	Kent
+KA	AYR	Ayrshire
+OL	BACUP	Lancashire
+GL	BADMINTON	Avon
+CH	BAGILLT	Clwyd
+GU	BAGSHOT	Surrey
+DE	BAKEWELL	Derbyshire
+LL	BALA	Gwynedd
+SG	BALDOCK	Hertfordshire
+EH	BALERNO	Midlothian
+PH	BALLACHULISH	Argyll
+AB	BALLATER	Aberdeenshire
+AB	BALLINDALLOCH	Banffshire
+BT	BALLYCASTLE	County Antrim
+BT	BALLYCLARE	County Antrim
+BT	BALLYMENA	County Antrim
+BT	BALLYMONEY	County Antrim
+BT	BALLYNAHINCH	County Down
+NE	BAMBURGH	Northumberland
+OX	BAMPTON	Oxfordshire
+BT	BANBRIDGE	County Down
+OX	BANBURY	Oxfordshire
+AB	BANCHORY	Kincardineshire
+AB	BANFF	Banffshire
+BT	BANGOR	County Down
+LL	BANGOR	Gwynedd
+SM	BANSTEAD	Surrey
+BS	BANWELL	Avon
+CF	BARGOED	Mid Glamorgan
+IG	BARKING	Essex
+LL	BARMOUTH	Gwynedd
+DL	BARNARD CASTLE	County Durham
+EN	BARNET	Hertfordshire
+DN	BARNETBY	South Humberside
+BB	BARNOLDSWICK	Lancashire
+S	BARNSLEY	South Yorkshire
+EX	BARNSTAPLE	Devon
+LA	BARROW-IN-FURNESS	Cumbria
+DN	BARROW-UPON-HUMBER	South Humberside
+CF	BARRY	South Glamorgan
+DN	BARTON-UPON-HUMBER	South Humberside
+SS	BASILDON	Essex
+RG	BASINGSTOKE	Hampshire
+BA	BATH	Avon
+EH	BATHGATE	West Lothian
+WF	BATLEY	West Yorkshire
+TN	BATTLE	East Sussex
+HP	BEACONSFIELD	Buckinghamshire
+DT	BEAMINSTER	Dorset
+IV	BEAULY	Inverness-shire
+LL	BEAUMARIS	Gwynedd
+EX	BEAWORTHY	Devon
+NR	BECCLES	Suffolk
+BR	BECKENHAM	Kent
+CA	BECKERMET	Cumbria
+DL	BEDALE	North Yorkshire
+MK	BEDFORD	Bedfordshire
+NE	BEDLINGTON	Northumberland
+CV	BEDWORTH	Warwickshire
+KA	BEITH	Ayrshire
+BT	BELFAST	County Antrim
+NE	BELFORD	Northumberland
+ML	BELLSHILL	Lanarkshire
+DE	BELPER	Derbyshire
+DA	BELVEDERE	Kent
+PO	BEMBRIDGE	Isle of Wight
+SS	BENFLEET	Essex
+GL	BERKELEY	Gloucestershire
+HP	BERKHAMSTED	Hertfordshire
+KW	BERRIEDALE	Caithness
+TD	BERWICK-UPON-TWEED	Northumberland
+RH	BETCHWORTH	Surrey
+LL	BETWS-Y-COED	Gwynedd
+HU	BEVERLEY	North Humberside
+DY	BEWDLEY	Worcestershire
+TN	BEXHILL-ON-SEA	East Sussex
+DA	BEXLEY	Kent
+DA	BEXLEYHEATH	Kent
+BF	BFPO	non-geographic
+OX	BICESTER	Oxfordshire
+EX	BIDEFORD	Devon
+ML	BIGGAR	Lanarkshire
+SG	BIGGLESWADE	Bedfordshire
+CM	BILLERICAY	Essex
+TS	BILLINGHAM	Cleveland
+RH	BILLINGSHURST	West Sussex
+WV	BILSTON	West Midlands
+BD	BINGLEY	West Yorkshire
+CT	BIRCHINGTON	Kent
+CH	BIRKENHEAD	Merseyside
+B	BIRMINGHAM	West Midlands
+DL	BISHOP AUCKLAND	County Durham
+SY	BISHOPS CASTLE	Shropshire
+CM	BISHOP'S STORTFORD	Hertfordshire
+PA	BISHOPTON	Renfrewshire
+BB	BLACKBURN	Lancashire
+FY	BLACKPOOL	Lancashire
+NP	BLACKWOOD	Gwent
+LL	BLAENAU FFESTINIOG	Gwynedd
+PH	BLAIRGOWRIE	Perthshire
+GL	BLAKENEY	Gloucestershire
+DT	BLANDFORD FORUM	Dorset
+NE	BLAYDON-ON-TYNE	Tyne and Wear
+NE	BLYTH	Northumberland
+PH	BOAT OF GARTEN	Inverness-shire
+PL	BODMIN	Cornwall
+LL	BODORGAN	Gwynedd
+PO	BOGNOR REGIS	West Sussex
+NE	BOLDON COLLIERY	Tyne and Wear
+BL	BOLTON	Lancashire
+SA	BONCATH	Dyfed
+EH	BO'NESS	West Lothian
+FK	BONNYBRIDGE	Stirlingshire
+EH	BONNYRIGG	Midlothian
+L	BOOTLE	Merseyside
+GU	BORDON	Hampshire
+WD	BOREHAMWOOD	Hertfordshire
+SY	BORTH	Dyfed
+PL	BOSCASTLE	Cornwall
+PE	BOSTON	Lincolnshire
+PE	BOURNE	Lincolnshire
+SL	BOURNE END	Buckinghamshire
+BH	BOURNEMOUTH	Dorset
+SY	BOW STREET	Dyfed
+NN	BRACKLEY	Northamptonshire
+RG	BRACKNELL	Berkshire
+BD	BRADFORD	West Yorkshire
+BA	BRADFORD-ON-AVON	Wiltshire
+CM	BRAINTREE	Essex
+CA	BRAMPTON	Cumbria
+IP	BRANDON	Suffolk
+EX	BRAUNTON	Devon
+DD	BRECHIN	Angus
+LD	BRECON	Powys
+TW	BRENTFORD	Middlesex
+CM	BRENTWOOD	Essex
+PA	BRIDGE OF ORCHY	Argyll
+PA	BRIDGE OF WEIR	Renfrewshire
+CF	BRIDGEND	Mid Glamorgan
+WV	BRIDGNORTH	Shropshire
+TA	BRIDGWATER	Somerset
+YO	BRIDLINGTON	North Humberside
+DT	BRIDPORT	Dorset
+DY	BRIERLEY HILL	West Midlands
+DN	BRIGG	South Humberside
+HD	BRIGHOUSE	West Yorkshire
+BN	BRIGHTON	East Sussex
+BS	BRISTOL	Avon
+TQ	BRIXHAM	Devon
+CT	BROADSTAIRS	Kent
+BH	BROADSTONE	Dorset
+WR	BROADWAY	Worcestershire
+SO	BROCKENHURST	Hampshire
+BR	BROMLEY	Kent
+B	BROMSGROVE	Worcestershire
+HR	BROMYARD	Herefordshire
+KW	BRORA	Sutherland
+TF	BROSELEY	Shropshire
+HU	BROUGH	North Humberside
+LA	BROUGHTON-IN-FURNESS	Cumbria
+EN	BROXBOURNE	Hertfordshire
+EH	BROXBURN	West Lothian
+BA	BRUTON	Somerset
+LL	BRYNTEG	Gwynedd
+TQ	BUCKFASTLEIGH	Devon
+IG	BUCKHURST HILL	Essex
+AB	BUCKIE	Banffshire
+MK	BUCKINGHAM	Buckinghamshire
+CH	BUCKLEY	Clwyd
+SY	BUCKNELL	Shropshire
+EX	BUDE	Cornwall
+EX	BUDLEIGH SALTERTON	Devon
+LD	BUILTH WELLS	Powys
+NR	BUNGAY	Suffolk
+SG	BUNTINGFORD	Hertfordshire
+CO	BURES	Suffolk
+OX	BURFORD	Oxfordshire
+RH	BURGESS HILL	West Sussex
+CM	BURNHAM-ON-CROUCH	Essex
+TA	BURNHAM-ON-SEA	Somerset
+BB	BURNLEY	Lancashire
+KY	BURNTISLAND	Fife
+WS	BURNTWOOD	Staffordshire
+SA	BURRY PORT	Dyfed
+DE	BURTON-ON-TRENT	Staffordshire
+BL	BURY	Lancashire
+IP	BURY ST. EDMUNDS	Suffolk
+WD	BUSHEY	Hertfordshire
+BT	BUSHMILLS	County Antrim
+SK	BUXTON	Derbyshire
+LL	CAERNARFON	Gwynedd
+CF	CAERPHILLY	Mid Glamorgan
+SY	CAERSWS	Powys
+PA	CAIRNDOW	Argyll
+NP	CALDICOT	Gwent
+BT	CALEDON	County Tyrone
+FK	CALLANDER	Perthshire
+PL	CALLINGTON	Cornwall
+SN	CALNE	Wiltshire
+PL	CALSTOCK	Cornwall
+GU	CAMBERLEY	Surrey
+TR	CAMBORNE	Cornwall
+CB	CAMBRIDGE	Cambridgeshire
+PL	CAMELFORD	Cornwall
+PA	CAMPBELTOWN	Argyll
+WS	CANNOCK	Staffordshire
+DG	CANONBIE	Dumfriesshire
+CT	CANTERBURY	Kent
+SS	CANVEY ISLAND	Essex
+CF	CARDIFF	South Glamorgan
+SA	CARDIGAN	Dyfed
+CA	CARLISLE	Cumbria
+ML	CARLUKE	Lanarkshire
+SA	CARMARTHEN	Dyfed
+LA	CARNFORTH	Lancashire
+DD	CARNOUSTIE	Angus
+PH	CARRBRIDGE	Inverness-shire
+BT	CARRICKFERGUS	County Antrim
+SM	CARSHALTON	Surrey
+OX	CARTERTON	Oxfordshire
+BA	CASTLE CARY	Somerset
+DG	CASTLE DOUGLAS	Kirkcudbrightshire
+BT	CASTLEDERG	County Tyrone
+WF	CASTLEFORD	West Yorkshire
+BT	CASTLEWELLAN	County Down
+CR	CATERHAM	Surrey
+DL	CATTERICK GARRISON	North Yorkshire
+LL	CEMAES BAY	Gwynedd
+HP	CHALFONT ST. GILES	Buckinghamshire
+TA	CHARD	Somerset
+ME	CHATHAM	Kent
+NE	CHATHILL	Northumberland
+PE	CHATTERIS	Cambridgeshire
+SK	CHEADLE	Cheshire
+BS	CHEDDAR	Somerset
+CM	CHELMSFORD	Essex
+GL	CHELTENHAM	Gloucestershire
+NP	CHEPSTOW	Gwent
+KT	CHERTSEY	Surrey
+HP	CHESHAM	Buckinghamshire
+KT	CHESSINGTON	Surrey
+CH	CHESTER	Cheshire
+DH	CHESTER LE STREET	County Durham
+S	CHESTERFIELD	Derbyshire
+PO	CHICHESTER	West Sussex
+IG	CHIGWELL	Essex
+OX	CHINNOR	Oxfordshire
+SN	CHIPPENHAM	Wiltshire
+GL	CHIPPING CAMPDEN	Gloucestershire
+OX	CHIPPING NORTON	Oxfordshire
+BR	CHISLEHURST	Kent
+NE	CHOPPINGTON	Northumberland
+PR	CHORLEY	Lancashire
+BH	CHRISTCHURCH	Dorset
+EX	CHULMLEIGH	Devon
+SY	CHURCH STRETTON	Shropshire
+GL	CINDERFORD	Gloucestershire
+GL	CIRENCESTER	Gloucestershire
+FK	CLACKMANNAN	Clackmannanshire
+CO	CLACTON-ON-SEA	Essex
+SA	CLARBESTON ROAD	Dyfed
+CA	CLEATOR	Cumbria
+CA	CLEATOR MOOR	Cumbria
+BD	CLECKHEATON	West Yorkshire
+DN	CLEETHORPES	South Humberside
+BS	CLEVEDON	Avon
+BB	CLITHEROE	Lancashire
+BT	CLOGHER	County Tyrone
+G	CLYDEBANK	Dunbartonshire
+SA	CLYNDERWEN	Dyfed
+LE	COALVILLE	Leicestershire
+ML	COATBRIDGE	Lanarkshire
+KT	COBHAM	Surrey
+TD	COCKBURNSPATH	Berwickshire
+CA	COCKERMOUTH	Cumbria
+CO	COLCHESTER	Essex
+TD	COLDSTREAM	Berwickshire
+GL	COLEFORD	Gloucestershire
+BT	COLERAINE	County Londonderry
+PA	COLINTRAIVE	Argyll
+BB	COLNE	Lancashire
+LL	COLWYN BAY	Clwyd
+EX	COLYTON	Devon
+CW	CONGLETON	Cheshire
+LA	CONISTON	Cumbria
+DH	CONSETT	County Durham
+LL	CONWY	Gwynedd
+BT	COOKSTOWN	County Tyrone
+NE	CORBRIDGE	Northumberland
+NN	CORBY	Northamptonshire
+TD	CORNHILL-ON-TWEED	Northumberland
+PH	CORROUR	Inverness-shire
+SN	CORSHAM	Wiltshire
+LL	CORWEN	Clwyd
+HU	COTTINGHAM	North Humberside
+CR	COULSDON	Surrey
+CV	COVENTRY	West Midlands
+CF	COWBRIDGE	South Glamorgan
+KY	COWDENBEATH	Fife
+PO	COWES	Isle of Wight
+B	CRADLEY HEATH	West Midlands
+BT	CRAIGAVON	County Armagh
+NE	CRAMLINGTON	Northumberland
+TN	CRANBROOK	Kent
+GU	CRANLEIGH	Surrey
+SY	CRAVEN ARMS	Shropshire
+RH	CRAWLEY	West Sussex
+EX	CREDITON	Devon
+CW	CREWE	Cheshire
+TA	CREWKERNE	Somerset
+FK	CRIANLARICH	Perthshire
+LL	CRICCIETH	Gwynedd
+NP	CRICKHOWELL	Powys
+PH	CRIEFF	Perthshire
+IV	CROMARTY	Ross-shire
+NR	CROMER	Norfolk
+DL	CROOK	County Durham
+TN	CROWBOROUGH	East Sussex
+RG	CROWTHORNE	Berkshire
+CR	CROYDON	Surrey
+BT	CRUMLIN	County Antrim
+SA	CRYMYCH	Dyfed
+EX	CULLOMPTON	Devon
+KA	CUMNOCK	Ayrshire
+KY	CUPAR	Fife
+EH	CURRIE	Midlothian
+NP	CWMBRAN	Gwent
+RM	DAGENHAM	Essex
+DG	DALBEATTIE	Kirkcudbrightshire
+EH	DALKEITH	Midlothian
+PA	DALMALLY	Argyll
+KA	DALRY	Ayrshire
+LA	DALTON-IN-FURNESS	Cumbria
+PH	DALWHINNIE	Inverness-shire
+DL	DARLINGTON	County Durham
+DA	DARTFORD	Kent
+TQ	DARTMOUTH	Devon
+KA	DARVEL	Ayrshire
+BB	DARWEN	Lancashire
+NN	DAVENTRY	Northamptonshire
+EX	DAWLISH	Devon
+CT	DEAL	Kent
+CH	DEESIDE	Clwyd
+PL	DELABOLE	Cornwall
+LL	DENBIGH	Clwyd
+FK	DENNY	Stirlingshire
+DE	DERBY	Derbyshire
+NR	DEREHAM	Norfolk
+SN	DEVIZES	Wiltshire
+WF	DEWSBURY	West Yorkshire
+OX	DIDCOT	Oxfordshire
+CF	DINAS POWYS	South Glamorgan
+IV	DINGWALL	Ross-shire
+IP	DISS	Norfolk
+LL	DOLGELLAU	Gwynedd
+FK	DOLLAR	Clackmannanshire
+LL	DOLWYDDELAN	Gwynedd
+BT	DONAGHADEE	County Down
+DN	DONCASTER	South Yorkshire
+DT	DORCHESTER	Dorset
+RH	DORKING	Surrey
+IV	DORNOCH	Sutherland
+FK	DOUNE	Perthshire
+CT	DOVER	Kent
+PE	DOWNHAM MARKET	Norfolk
+BT	DOWNPATRICK	County Down
+YO	DRIFFIELD	North Humberside
+WR	DROITWICH	Worcestershire
+BT	DROMORE	County Down
+S	DRONFIELD	Derbyshire
+GL	DRYBROOK	Gloucestershire
+DY	DUDLEY	West Midlands
+SK	DUKINFIELD	Cheshire
+LL	DULAS	Gwynedd
+TA	DULVERTON	Somerset
+G	DUMBARTON	Dunbartonshire
+DG	DUMFRIES	Dumfriesshire
+EH	DUNBAR	East Lothian
+KW	DUNBEATH	Caithness
+FK	DUNBLANE	Perthshire
+DD	DUNDEE	Angus
+KY	DUNFERMLINE	Fife
+BT	DUNGANNON	County Tyrone
+PH	DUNKELD	Perthshire
+CM	DUNMOW	Essex
+PA	DUNOON	Argyll
+TD	DUNS	Berwickshire
+LU	DUNSTABLE	Bedfordshire
+DH	DURHAM	County Durham
+GL	DURSLEY	Gloucestershire
+LL	DYFFRYN ARDUDWY	Gwynedd
+GL	DYMOCK	Gloucestershire
+TD	EARLSTON	Berwickshire
+NE	EAST BOLDON	Tyne and Wear
+PO	EAST COWES	Isle of Wight
+RH	EAST GRINSTEAD	West Sussex
+EH	EAST LINTON	East Lothian
+KT	EAST MOLESEY	Surrey
+BN	EASTBOURNE	East Sussex
+SO	EASTLEIGH	Hampshire
+NP	EBBW VALE	Gwent
+TN	EDENBRIDGE	Kent
+HA	EDGWARE	Middlesex
+EH	EDINBURGH	Midlothian
+TW	EGHAM	Surrey
+CA	EGREMONT	Cumbria
+IV	ELGIN	Morayshire
+HX	ELLAND	West Yorkshire
+SY	ELLESMERE	Shropshire
+CH	ELLESMERE PORT	Merseyside
+AB	ELLON	Aberdeenshire
+CB	ELY	Cambridgeshire
+PO	EMSWORTH	Hampshire
+EN	ENFIELD	Middlesex
+BT	ENNISKILLEN	County Fermanagh
+CM	EPPING	Essex
+KT	EPSOM	Surrey
+DA	ERITH	Kent
+PA	ERSKINE	Renfrewshire
+KT	ESHER	Surrey
+TN	ETCHINGHAM	East Sussex
+WR	EVESHAM	Worcestershire
+EX	EXETER	Devon
+EX	EXMOUTH	Devon
+IP	EYE	Suffolk
+TD	EYEMOUTH	Berwickshire
+LL	FAIRBOURNE	Gwynedd
+GL	FAIRFORD	Gloucestershire
+NR	FAKENHAM	Norfolk
+FK	FALKIRK	Stirlingshire
+TR	FALMOUTH	Cornwall
+PO	FAREHAM	Hampshire
+SN	FARINGDON	Oxfordshire
+GU	FARNBOROUGH	Hampshire
+GU	FARNHAM	Surrey
+ME	FAVERSHAM	Kent
+IP	FELIXSTOWE	Suffolk
+TW	FELTHAM	Middlesex
+CF	FERNDALE	Mid Glamorgan
+BH	FERNDOWN	Dorset
+DL	FERRYHILL	County Durham
+SA	FERRYSIDE	Dyfed
+YO	FILEY	North Yorkshire
+SA	FISHGUARD	Dyfed
+BT	FIVEMILETOWN	County Tyrone
+GU	FLEET	Hampshire
+FY	FLEETWOOD	Lancashire
+CH	FLINT	Clwyd
+IV	FOCHABERS	Morayshire
+CT	FOLKESTONE	Kent
+SP	FORDINGBRIDGE	Hampshire
+RH	FOREST ROW	East Sussex
+DD	FORFAR	Angus
+IV	FORRES	Morayshire
+KW	FORSINARD	Sutherland
+PH	FORT AUGUSTUS	Inverness-shire
+PH	FORT WILLIAM	Inverness-shire
+IV	FORTROSE	Ross-shire
+PL	FOWEY	Cornwall
+AB	FRASERBURGH	Aberdeenshire
+PO	FRESHWATER	Isle of Wight
+CO	FRINTON-ON-SEA	Essex
+CA	FRIZINGTON	Cumbria
+WA	FRODSHAM	Cheshire
+BA	FROME	Somerset
+LL	GAERWEN	Gwynedd
+DN	GAINSBOROUGH	Lincolnshire
+IV	GAIRLOCH	Ross-shire
+TD	GALASHIELS	Selkirkshire
+KA	GALSTON	Ayrshire
+LL	GARNDOLBENMAEN	Gwynedd
+IV	GARVE	Ross-shire
+NE	GATESHEAD	Tyne and Wear
+RH	GATWICK	West Sussex
+SL	GERRARDS CROSS	Buckinghamshire
+ME	GILLINGHAM	Kent
+SP	GILLINGHAM	Dorset
+KA	GIRVAN	Ayrshire
+G	GLASGOW	Lanarkshire
+BA	GLASTONBURY	Somerset
+PH	GLENFINNAN	Inverness-shire
+KY	GLENROTHES	Fife
+SA	GLOGUE	Dyfed
+SK	GLOSSOP	Derbyshire
+GL	GLOUCESTER	Gloucestershire
+GU	GODALMING	Surrey
+RH	GODSTONE	Surrey
+KW	GOLSPIE	Sutherland
+SA	GOODWICK	Dyfed
+DN	GOOLE	North Humberside
+TD	GORDON	Berwickshire
+EH	GOREBRIDGE	Midlothian
+PO	GOSPORT	Hampshire
+PA	GOUROCK	Renfrewshire
+FK	GRANGEMOUTH	Stirlingshire
+LA	GRANGE-OVER-SANDS	Cumbria
+NG	GRANTHAM	Lincolnshire
+PH	GRANTOWN-ON-SPEY	Morayshire
+DA	GRAVESEND	Kent
+RM	GRAYS	Essex
+HP	GREAT MISSENDEN	Buckinghamshire
+NR	GREAT YARMOUTH	Norfolk
+UB	GREENFORD	Middlesex
+DA	GREENHITHE	Kent
+PA	GREENOCK	Renfrewshire
+DG	GRETNA	Dumfriesshire
+DN	GRIMSBY	South Humberside
+GY	GUERNSEY	Channel Islesnot
+GU	GUILDFORD	Surrey
+TS	GUISBOROUGH	Cleveland
+EH	GULLANE	East Lothian
+PL	GUNNISLAKE	Cornwall
+EH	HADDINGTON	East Lothian
+BN	HAILSHAM	East Sussex
+B	HALESOWEN	West Midlands
+IP	HALESWORTH	Suffolk
+HX	HALIFAX	West Yorkshire
+KW	HALKIRK	Caithness
+CO	HALSTEAD	Essex
+NE	HALTWHISTLE	Northumberland
+ML	HAMILTON	Lanarkshire
+TW	HAMPTON	Middlesex
+LL	HARLECH	Gwynedd
+IP	HARLESTON	Norfolk
+CM	HARLOW	Essex
+AL	HARPENDEN	Hertfordshire
+HG	HARROGATE	North Yorkshire
+HA	HARROW	Middlesex
+TN	HARTFIELD	East Sussex
+TS	HARTLEPOOL	Cleveland
+CO	HARWICH	Essex
+GU	HASLEMERE	Surrey
+BN	HASSOCKS	West Sussex
+TN	HASTINGS	East Sussex
+AL	HATFIELD	Hertfordshire
+PO	HAVANT	Hampshire
+SA	HAVERFORDWEST	Dyfed
+CB	HAVERHILL	Suffolk
+DL	HAWES	North Yorkshire
+TD	HAWICK	Roxburghshire
+UB	HAYES	Middlesex
+TR	HAYLE	Cornwall
+PO	HAYLING ISLAND	Hampshire
+RH	HAYWARDS HEATH	West Sussex
+DE	HEANOR	Derbyshire
+TN	HEATHFIELD	East Sussex
+NE	HEBBURN	Tyne and Wear
+HX	HEBDEN BRIDGE	West Yorkshire
+WF	HECKMONDWIKE	West Yorkshire
+G	HELENSBURGH	Dunbartonshire
+KW	HELMSDALE	Sutherland
+TR	HELSTON	Cornwall
+HP	HEMEL HEMPSTEAD	Hertfordshire
+BN	HENFIELD	West Sussex
+CF	HENGOED	Mid Glamorgan
+B	HENLEY-IN-ARDEN	West Midlands
+RG	HENLEY-ON-THAMES	Oxfordshire
+SG	HENLOW	Bedfordshire
+HR	HEREFORD	Herefordshire
+EH	HERIOT	Midlothian
+CT	HERNE BAY	Kent
+SG	HERTFORD	Hertfordshire
+HU	HESSLE	North Humberside
+NE	HEXHAM	Northumberland
+OL	HEYWOOD	Lancashire
+SK	HIGH PEAK	Derbyshire
+HP	HIGH WYCOMBE	Buckinghamshire
+TA	HIGHBRIDGE	Somerset
+BT	HILLSBOROUGH	County Down
+LE	HINCKLEY	Leicestershire
+GU	HINDHEAD	Surrey
+TA	HINTON ST. GEORGE	Somerset
+SG	HITCHIN	Hertfordshire
+SS	HOCKLEY	Essex
+EN	HODDESDON	Hertfordshire
+HD	HOLMFIRTH	West Yorkshire
+CA	HOLMROOK	Cumbria
+EX	HOLSWORTHY	Devon
+NR	HOLT	Norfolk
+LL	HOLYHEAD	Gwynedd
+CH	HOLYWELL	Clwyd
+BT	HOLYWOOD	County Down
+EX	HONITON	Devon
+RG	HOOK	Hampshire
+S	HOPE VALLEY	Derbyshire
+RH	HORLEY	Surrey
+LN	HORNCASTLE	Lincolnshire
+RM	HORNCHURCH	Essex
+HU	HORNSEA	North Humberside
+RH	HORSHAM	West Sussex
+DH	HOUGHTON LE SPRING	Tyne and Wear
+TW	HOUNSLOW	Middlesex
+BN	HOVE	East Sussex
+HD	HUDDERSFIELD	West Yorkshire
+HU	HULL	North Humberside
+EH	HUMBIE	East Lothian
+RG	HUNGERFORD	Berkshire
+PE	HUNSTANTON	Norfolk
+PE	HUNTINGDON	Cambridgeshire
+AB	HUNTLY	Aberdeenshire
+SK	HYDE	Cheshire
+CT	HYTHE	Kent
+LE	IBSTOCK	Leicestershire
+IG	ILFORD	Essex
+EX	ILFRACOMBE	Devon
+DE	ILKESTON	Derbyshire
+LS	ILKLEY	West Yorkshire
+TA	ILMINSTER	Somerset
+DN	IMMINGHAM	South Humberside
+CM	INGATESTONE	Essex
+EH	INNERLEITHEN	Peeblesshire
+AB	INSCH	Aberdeenshire
+PA	INVERARAY	Argyll
+PH	INVERGARRY	Inverness-shire
+IV	INVERGORDON	Ross-shire
+KY	INVERKEITHING	Fife
+IV	INVERNESS	Inverness-shire
+AB	INVERURIE	Aberdeenshire
+IP	IPSWICH	Suffolk
+KA	IRVINE	Ayrshire
+KA	ISLE OF ARRAN	Isle of Arran
+HS	ISLE OF BARRA	Isle of Barra
+HS	ISLE OF BENBECULA	Isle of Benbecula
+PA	ISLE OF BUTE	Isle of Bute
+PH	ISLE OF CANNA	Isle of Canna
+PA	ISLE OF COLL	Isle of Coll
+PA	ISLE OF COLONSAY	Isle of Colonsay
+KA	ISLE OF CUMBRAE	Isle of Cumbrae
+PH	ISLE OF EIGG	Isle of Eigg
+PA	ISLE OF GIGHA	Isle of Gigha
+HS	ISLE OF HARRIS	Isle of Harris
+PA	ISLE OF IONA	Isle of Iona
+PA	ISLE OF ISLAY	Isle of Islay
+PA	ISLE OF JURA	Isle of Jura
+HS	ISLE OF LEWIS	Isle of Lewis
+IM	ISLE OF MAN	Isle of Mannot
+PA	ISLE OF MULL	Isle of Mull
+HS	ISLE OF NORTH UIST	Isle of North Uist
+PH	ISLE OF RUM	Isle of Rum
+HS	ISLE OF SCALPAY	Isle of Scalpay
+IV	ISLE OF SKYE	Isle of Skye
+HS	ISLE OF SOUTH UIST	Inverness-shire
+PA	ISLE OF TIREE	Isle of Tiree
+TR	ISLES OF SCILLY	Isles of Scilly
+TW	ISLEWORTH	Middlesex
+SL	IVER	Buckinghamshire
+PL	IVYBRIDGE	Devon
+NE	JARROW	Tyne and Wear
+TD	JEDBURGH	Roxburghshire
+JE	JERSEY	Channel Islesnot
+PA	JOHNSTONE	Renfrewshire
+EH	JUNIPER GREEN	Midlothian
+BD	KEIGHLEY	West Yorkshire
+AB	KEITH	Banffshire
+TD	KELSO	Roxburghshire
+KY	KELTY	Fife
+LA	KENDAL	Cumbria
+CV	KENILWORTH	Warwickshire
+CR	KENLEY	Surrey
+BR	KESTON	Kent
+CA	KESWICK	Cumbria
+NN	KETTERING	Northamptonshire
+DY	KIDDERMINSTER	Worcestershire
+OX	KIDLINGTON	Oxfordshire
+SA	KIDWELLY	Dyfed
+KA	KILBIRNIE	Ayrshire
+SA	KILGETTY	Dyfed
+FK	KILLIN	Perthshire
+PA	KILMACOLM	Renfrewshire
+KA	KILMARNOCK	Ayrshire
+KA	KILWINNING	Ayrshire
+KW	KINBRACE	Sutherland
+WD	KINGS LANGLEY	Hertfordshire
+PE	KING'S LYNN	Norfolk
+TQ	KINGSBRIDGE	Devon
+KT	KINGSTON UPON THAMES	Surrey
+DY	KINGSWINFORD	West Midlands
+HR	KINGTON	Herefordshire
+PH	KINGUSSIE	Inverness-shire
+PH	KINLOCHLEVEN	Argyll
+KY	KINROSS	Kinross-shire
+CA	KIRKBY STEPHEN	Cumbria
+LA	KIRKBY-IN-FURNESS	Cumbria
+KY	KIRKCALDY	Fife
+DG	KIRKCUDBRIGHT	Kirkcudbrightshire
+EH	KIRKLISTON	West Lothian
+EH	KIRKNEWTON	Midlothian
+KW	KIRKWALL	Orkney
+DD	KIRRIEMUIR	Angus
+HG	KNARESBOROUGH	North Yorkshire
+SG	KNEBWORTH	Hertfordshire
+LD	KNIGHTON	Powys
+WF	KNOTTINGLEY	West Yorkshire
+WA	KNUTSFORD	Cheshire
+IV	KYLE	Ross-shire
+IV	LAIRG	Sutherland
+SA	LAMPETER	Dyfed
+ML	LANARK	Lanarkshire
+LA	LANCASTER	Lancashire
+BN	LANCING	West Sussex
+DG	LANGHOLM	Dumfriesshire
+TA	LANGPORT	Somerset
+FK	LARBERT	Stirlingshire
+KA	LARGS	Ayrshire
+ML	LARKHALL	Lanarkshire
+BT	LARNE	County Antrim
+EH	LASSWADE	Midlothian
+KW	LATHERON	Caithness
+TD	LAUDER	Berwickshire
+PL	LAUNCESTON	Cornwall
+AB	LAURENCEKIRK	Kincardineshire
+CV	LEAMINGTON SPA	Warwickshire
+KT	LEATHERHEAD	Surrey
+GL	LECHLADE	Gloucestershire
+HR	LEDBURY	Herefordshire
+LS	LEEDS	West Yorkshire
+ST	LEEK	Staffordshire
+PO	LEE-ON-THE-SOLENT	Hampshire
+LE	LEICESTER	Leicestershire
+WN	LEIGH	Lancashire
+SS	LEIGH-ON-SEA	Essex
+LU	LEIGHTON BUZZARD	Bedfordshire
+IP	LEISTON	Suffolk
+HR	LEOMINSTER	Herefordshire
+SG	LETCHWORTH GARDEN CITY	Hertfordshire
+KY	LEVEN	Fife
+BN	LEWES	East Sussex
+DL	LEYBURN	North Yorkshire
+PR	LEYLAND	Lancashire
+WS	LICHFIELD	Staffordshire
+PL	LIFTON	Devon
+GU	LIGHTWATER	Surrey
+BT	LIMAVADY	County Londonderry
+LN	LINCOLN	Lincolnshire
+RH	LINGFIELD	Surrey
+EH	LINLITHGOW	West Lothian
+GU	LIPHOOK	Hampshire
+BT	LISBURN	County Antrim
+PL	LISKEARD	Cornwall
+GU	LISS	Hampshire
+OL	LITTLEBOROUGH	Lancashire
+BN	LITTLEHAMPTON	West Sussex
+L	LIVERPOOL	Merseyside
+WF	LIVERSEDGE	West Yorkshire
+EH	LIVINGSTON	West Lothian
+SA	LLANARTH	Dyfed
+LL	LLANBEDR	Gwynedd
+LL	LLANBEDRGOCH	Gwynedd
+SY	LLANBRYNMAIR	Powys
+SA	LLANDEILO	Dyfed
+SY	LLANDINAM	Powys
+SA	LLANDOVERY	Dyfed
+LD	LLANDRINDOD WELLS	Powys
+LL	LLANDUDNO	Gwynedd
+LL	LLANDUDNO JUNCTION	Gwynedd
+SA	LLANDYSUL	Dyfed
+SA	LLANELLI	Dyfed
+LL	LLANERCHYMEDD	Gwynedd
+LL	LLANFAIRFECHAN	Gwynedd
+LL	LLANFAIRPWLLGWYNGYLL	Gwynedd
+SY	LLANFECHAIN	Powys
+SY	LLANFYLLIN	Powys
+SA	LLANFYRNACH	Dyfed
+SA	LLANGADOG	Dyfed
+LD	LLANGAMMARCH WELLS	Powys
+LL	LLANGEFNI	Gwynedd
+LL	LLANGOLLEN	Clwyd
+SY	LLANIDLOES	Powys
+SY	LLANON	Dyfed
+SY	LLANRHYSTUD	Dyfed
+LL	LLANRWST	Gwynedd
+SY	LLANSANFFRAID	Powys
+CF	LLANTWIT MAJOR	South Glamorgan
+SA	LLANWRDA	Dyfed
+LD	LLANWRTYD WELLS	Powys
+SA	LLANYBYDDER	Dyfed
+SY	LLANYMYNECH	Powys
+LL	LLWYNGWRIL	Gwynedd
+EH	LOANHEAD	Midlothian
+PH	LOCHAILORT	Inverness-shire
+FK	LOCHEARNHEAD	Perthshire
+KY	LOCHGELLY	Fife
+PA	LOCHGILPHEAD	Argyll
+PA	LOCHWINNOCH	Renfrewshire
+DG	LOCKERBIE	Dumfriesshire
+E	LONDON	London
+EC	LONDON	London
+N	LONDON	London
+NW	LONDON	London
+SE	LONDON	London
+SW	LONDON	London
+W	LONDON	London
+WC	LONDON	London
+BT	LONDONDERRY	County Londonderry
+DA	LONGFIELD	Kent
+GL	LONGHOPE	Gloucestershire
+EH	LONGNIDDRY	East Lothian
+PL	LOOE	Cornwall
+IV	LOSSIEMOUTH	Morayshire
+PL	LOSTWITHIEL	Cornwall
+LE	LOUGHBOROUGH	Leicestershire
+IG	LOUGHTON	Essex
+LN	LOUTH	Lincolnshire
+NR	LOWESTOFT	Suffolk
+SY	LUDLOW	Shropshire
+LU	LUTON	Bedfordshire
+LE	LUTTERWORTH	Leicestershire
+KW	LYBSTER	Caithness
+GL	LYDBROOK	Gloucestershire
+SY	LYDBURY NORTH	Shropshire
+GL	LYDNEY	Gloucestershire
+DT	LYME REGIS	Dorset
+SO	LYMINGTON	Hampshire
+WA	LYMM	Cheshire
+SO	LYNDHURST	Hampshire
+EX	LYNMOUTH	Devon
+EX	LYNTON	Devon
+FY	LYTHAM ST. ANNES	Lancashire
+LN	MABLETHORPE	Lincolnshire
+SK	MACCLESFIELD	Cheshire
+AB	MACDUFF	Banffshire
+SY	MACHYNLLETH	Powys
+CF	MAESTEG	Mid Glamorgan
+BT	MAGHERA	County Londonderry
+BT	MAGHERAFELT	County Londonderry
+SL	MAIDENHEAD	Berkshire
+ME	MAIDSTONE	Kent
+CM	MALDON	Essex
+PH	MALLAIG	Inverness-shire
+SN	MALMESBURY	Wiltshire
+SY	MALPAS	Cheshire
+YO	MALTON	North Yorkshire
+WR	MALVERN	Worcestershire
+M	MANCHESTER	Lancashire
+CO	MANNINGTREE	Essex
+NG	MANSFIELD	Nottinghamshire
+TR	MARAZION	Cornwall
+PE	MARCH	Cambridgeshire
+CT	MARGATE	Kent
+LL	MARIANGLAS	Gwynedd
+TF	MARKET DRAYTON	Shropshire
+LE	MARKET HARBOROUGH	Leicestershire / Rutland
+LN	MARKET RASEN	Lincolnshire
+LE	MARKFIELD	Leicestershire
+SN	MARLBOROUGH	Wiltshire
+SL	MARLOW	Buckinghamshire
+TA	MARTOCK	Somerset
+CA	MARYPORT	Cumbria
+DE	MATLOCK	Derbyshire
+KA	MAUCHLINE	Ayrshire
+KA	MAYBOLE	Ayrshire
+TN	MAYFIELD	East Sussex
+SY	MEIFOD	Powys
+SN	MELKSHAM	Wiltshire
+TD	MELROSE	Roxburghshire
+NR	MELTON CONSTABLE	Norfolk
+LE	MELTON MOWBRAY	Leicestershire
+LL	MENAI BRIDGE	Gwynedd
+FK	MENSTRIE	Clackmannanshire
+TA	MERRIOTT	Somerset
+CF	MERTHYR TYDFIL	Mid Glamorgan
+S	MEXBOROUGH	South Yorkshire
+TS	MIDDLESBROUGH	Cleveland
+CW	MIDDLEWICH	Cheshire
+GU	MIDHURST	West Sussex
+SA	MILFORD HAVEN	Dyfed
+LA	MILLOM	Cumbria
+AB	MILLTIMBER	Aberdeenshire
+LA	MILNTHORPE	Cumbria
+MK	MILTON KEYNES	Buckinghamshire
+TD	MINDRUM	Northumberland
+TA	MINEHEAD	Somerset
+WF	MIRFIELD	West Yorkshire
+CR	MITCHAM	Surrey
+GL	MITCHELDEAN	Gloucestershire
+LL	MOELFRE	Gwynedd
+DG	MOFFAT	Dumfriesshire
+CH	MOLD	Clwyd
+NP	MONMOUTH	Gwent
+TA	MONTACUTE	Somerset
+SY	MONTGOMERY	Powys
+DD	MONTROSE	Angus
+CA	MOOR ROW	Cumbria
+SM	MORDEN	Surrey
+LA	MORECAMBE	Lancashire
+GL	MORETON-IN-MARSH	Gloucestershire
+NE	MORPETH	Northumberland
+ML	MOTHERWELL	Lanarkshire
+CF	MOUNTAIN ASH	Mid Glamorgan
+SG	MUCH HADHAM	Hertfordshire
+TF	MUCH WENLOCK	Shropshire
+IV	MUIR OF ORD	Ross-shire
+IV	MUNLOCHY	Ross-shire
+EH	MUSSELBURGH	Midlothian
+IV	NAIRN	Nairnshire
+CW	NANTWICH	Cheshire
+SA	NARBERTH	Dyfed
+SA	NEATH	West Glamorgan
+BB	NELSON	Lancashire
+CH	NESTON	Merseyside
+PH	NETHY BRIDGE	Inverness-shire
+KT	NEW MALDEN	Surrey
+BH	NEW MILTON	Hampshire
+SA	NEW QUAY	Dyfed
+TN	NEW ROMNEY	Kent
+NP	NEW TREDEGAR	Gwent
+NG	NEWARK	Nottinghamshire
+NE	NEWBIGGIN-BY-THE-SEA	Northumberland
+EH	NEWBRIDGE	Midlothian
+RG	NEWBURY	Berkshire
+BT	NEWCASTLE	County Down
+ST	NEWCASTLE	Staffordshire
+SA	NEWCASTLE EMLYN	Dyfed
+NE	NEWCASTLE UPON TYNE	Tyne and Wear
+TD	NEWCASTLETON	Roxburghshire
+GL	NEWENT	Gloucestershire
+BN	NEWHAVEN	East Sussex
+CB	NEWMARKET	Suffolk
+KA	NEWMILNS	Ayrshire
+GL	NEWNHAM	Gloucestershire
+NP	NEWPORT	Gwent
+PO	NEWPORT	Isle of Wight
+SA	NEWPORT	Dyfed
+TF	NEWPORT	Shropshire
+MK	NEWPORT PAGNELL	Buckinghamshire
+DD	NEWPORT-ON-TAY	Fife
+TR	NEWQUAY	Cornwall
+BT	NEWRY	County Down
+TQ	NEWTON ABBOT	Devon
+DL	NEWTON AYCLIFFE	County Durham
+DG	NEWTON STEWART	Wigtownshire
+WA	NEWTON-LE-WILLOWS	Merseyside
+PH	NEWTONMORE	Inverness-shire
+SY	NEWTOWN	Powys
+BT	NEWTOWNABBEY	County Antrim
+BT	NEWTOWNARDS	County Down
+WF	NORMANTON	West Yorkshire
+EH	NORTH BERWICK	East Lothian
+HU	NORTH FERRIBY	North Humberside
+NE	NORTH SHIELDS	Tyne and Wear
+EX	NORTH TAWTON	Devon
+NR	NORTH WALSHAM	Norfolk
+DL	NORTHALLERTON	North Yorkshire
+NN	NORTHAMPTON	Northamptonshire
+UB	NORTHOLT	Middlesex
+CW	NORTHWICH	Cheshire
+HA	NORTHWOOD	Middlesex
+NR	NORWICH	Norfolk
+BX	not applicable	non-geographic
+NG	NOTTINGHAM	Nottinghamshire
+CV	NUNEATON	Warwickshire
+LE	OAKHAM	Leicestershire / Rutland
+PA	OBAN	Argyll
+EX	OKEHAMPTON	Devon
+B	OLDBURY	West Midlands
+OL	OLDHAM	Lancashire
+MK	OLNEY	Buckinghamshire
+BT	OMAGH	County Tyrone
+CM	ONGAR	Essex
+KW	ORKNEY	Orkney
+L	ORMSKIRK	Lancashire
+BR	ORPINGTON	Kent
+WF	OSSETT	West Yorkshire
+SY	OSWESTRY	Shropshire
+LS	OTLEY	West Yorkshire
+EX	OTTERY ST. MARY	Devon
+OX	OXFORD	Oxfordshire
+RH	OXTED	Surrey
+PL	PADSTOW	Cornwall
+TQ	PAIGNTON	Devon
+PA	PAISLEY	Renfrewshire
+PL	PAR	Cornwall
+EH	PATHHEAD	Midlothian
+BN	PEACEHAVEN	East Sussex
+EH	PEEBLES	Peeblesshire
+SA	PEMBROKE	Dyfed
+SA	PEMBROKE DOCK	Dyfed
+CF	PENARTH	South Glamorgan
+SA	PENCADER	Dyfed
+EH	PENICUIK	Midlothian
+LL	PENMAENMAWR	Gwynedd
+LL	PENRHYNDEUDRAETH	Gwynedd
+CA	PENRITH	Cumbria
+TR	PENRYN	Cornwall
+LL	PENTRAETH	Gwynedd
+CF	PENTRE	Mid Glamorgan
+LL	PENYSARN	Gwynedd
+TR	PENZANCE	Cornwall
+TR	PERRANPORTH	Cornwall
+WR	PERSHORE	Worcestershire
+PH	PERTH	Perthshire
+PE	PETERBOROUGH	Cambridgeshire
+AB	PETERCULTER	Aberdeenshire
+AB	PETERHEAD	Aberdeenshire
+SR	PETERLEE	County Durham
+GU	PETERSFIELD	Hampshire
+GU	PETWORTH	West Sussex
+BN	PEVENSEY	East Sussex
+SN	PEWSEY	Wiltshire
+YO	PICKERING	North Yorkshire
+HA	PINNER	Middlesex
+PH	PITLOCHRY	Perthshire
+IV	PLOCKTON	Ross-shire
+PL	PLYMOUTH	Devon
+BN	POLEGATE	East Sussex
+WF	PONTEFRACT	West Yorkshire
+CF	PONTYCLUN	Mid Glamorgan
+NP	PONTYPOOL	Gwent
+CF	PONTYPRIDD	Mid Glamorgan
+BH	POOLE	Dorset
+PA	PORT GLASGOW	Renfrewshire
+PL	PORT ISAAC	Cornwall
+SA	PORT TALBOT	West Glamorgan
+CF	PORTH	Mid Glamorgan
+CF	PORTHCAWL	Mid Glamorgan
+LL	PORTHMADOG	Gwynedd
+DT	PORTLAND	Dorset
+IV	PORTREE	Isle of Skye
+BT	PORTRUSH	County Antrim
+PO	PORTSMOUTH	Hampshire
+BT	PORTSTEWART	County Londonderry
+EN	POTTERS BAR	Hertfordshire
+FY	POULTON-LE-FYLDE	Lancashire
+CH	PRENTON	Merseyside
+L	PRESCOT	Merseyside
+LL	PRESTATYN	Clwyd
+LD	PRESTEIGNE	Powys
+PR	PRESTON	Lancashire
+EH	PRESTONPANS	East Lothian
+KA	PRESTWICK	Ayrshire
+HP	PRINCES RISBOROUGH	Buckinghamshire
+NE	PRUDHOE	Northumberland
+LS	PUDSEY	West Yorkshire
+RH	PULBOROUGH	West Sussex
+RM	PURFLEET	Essex
+CR	PURLEY	Surrey
+LL	PWLLHELI	Gwynedd
+ME	QUEENBOROUGH	Kent
+WD	RADLETT	Hertfordshire
+BA	RADSTOCK	Avon
+RM	RAINHAM	Essex
+CT	RAMSGATE	Kent
+CA	RAVENGLASS	Cumbria
+SS	RAYLEIGH	Essex
+RG	READING	Berkshire
+TS	REDCAR	Cleveland
+B	REDDITCH	Worcestershire
+RH	REDHILL	Surrey
+TR	REDRUTH	Cornwall
+RH	REIGATE	Surrey
+PA	RENFREW	Renfrewshire
+DN	RETFORD	Nottinghamshire
+LD	RHAYADER	Powys
+LL	RHOSGOCH	Gwynedd
+LL	RHOSNEIGR	Gwynedd
+LL	RHYL	Clwyd
+DL	RICHMOND	North Yorkshire
+TW	RICHMOND	Surrey
+WD	RICKMANSWORTH	Hertfordshire
+NE	RIDING MILL	Northumberland
+BH	RINGWOOD	Hampshire
+DE	RIPLEY	Derbyshire
+HG	RIPON	North Yorkshire
+TN	ROBERTSBRIDGE	East Sussex
+OL	ROCHDALE	Lancashire
+ME	ROCHESTER	Kent
+SS	ROCHFORD	Essex
+IV	ROGART	Sutherland
+RM	ROMFORD	Essex
+TN	ROMNEY MARSH	Kent
+SO	ROMSEY	Hampshire
+EH	ROSEWELL	Midlothian
+EH	ROSLIN	Midlothian
+BB	ROSSENDALE	Lancashire
+HR	ROSS-ON-WYE	Herefordshire
+S	ROTHERHAM	South Yorkshire
+PO	ROWLAND'S CASTLE	Hampshire
+NE	ROWLANDS GILL	Tyne and Wear
+B	ROWLEY REGIS	West Midlands
+PH	ROY BRIDGE	Inverness-shire
+SG	ROYSTON	Hertfordshire
+GL	RUARDEAN	Gloucestershire
+CV	RUGBY	Warwickshire
+WS	RUGELEY	Staffordshire
+HA	RUISLIP	Middlesex
+WA	RUNCORN	Cheshire
+NN	RUSHDEN	Northamptonshire
+LL	RUTHIN	Clwyd
+PO	RYDE	Isle of Wight
+TN	RYE	East Sussex
+NE	RYTON	Tyne and Wear
+CB	SAFFRON WALDEN	Essex
+TQ	SALCOMBE	Devon
+M	SALE	Cheshire
+M	SALFORD	Lancashire
+SP	SALISBURY	Wiltshire
+PL	SALTASH	Cornwall
+TS	SALTBURN-BY-THE-SEA	Cleveland
+KA	SALTCOATS	Ayrshire
+CW	SANDBACH	Cheshire
+GU	SANDHURST	Berkshire
+PO	SANDOWN	Isle of Wight
+PE	SANDRINGHAM	Norfolk
+CT	SANDWICH	Kent
+SG	SANDY	Bedfordshire
+DG	SANQUHAR	Dumfriesshire
+SA	SAUNDERSFOOT	Dyfed
+CM	SAWBRIDGEWORTH	Hertfordshire
+IP	SAXMUNDHAM	Suffolk
+YO	SCARBOROUGH	North Yorkshire
+DN	SCUNTHORPE	South Humberside
+BN	SEAFORD	East Sussex
+SR	SEAHAM	County Durham
+NE	SEAHOUSES	Northumberland
+CA	SEASCALE	Cumbria
+EX	SEATON	Devon
+PO	SEAVIEW	Isle of Wight
+LA	SEDBERGH	Cumbria
+YO	SELBY	North Yorkshire
+TD	SELKIRK	Selkirkshire
+BD	SETTLE	North Yorkshire
+TN	SEVENOAKS	Kent
+SP	SHAFTESBURY	Dorset
+PO	SHANKLIN	Isle of Wight
+ME	SHEERNESS	Kent
+S	SHEFFIELD	South Yorkshire
+SG	SHEFFORD	Bedfordshire
+TW	SHEPPERTON	Middlesex
+BA	SHEPTON MALLET	Somerset
+DT	SHERBORNE	Dorset
+NR	SHERINGHAM	Norfolk
+ZE	SHETLAND	Shetland Islands
+TF	SHIFNAL	Shropshire
+DL	SHILDON	County Durham
+BD	SHIPLEY	West Yorkshire
+CV	SHIPSTON-ON-STOUR	Warwickshire
+BN	SHOREHAM-BY-SEA	West Sussex
+ML	SHOTTS	Lanarkshire
+SY	SHREWSBURY	Shropshire
+DA	SIDCUP	Kent
+EX	SIDMOUTH	Devon
+ME	SITTINGBOURNE	Kent
+PE	SKEGNESS	Lincolnshire
+WN	SKELMERSDALE	Lancashire
+PA	SKELMORLIE	Ayrshire
+BD	SKIPTON	North Yorkshire
+NG	SLEAFORD	Lincolnshire
+SL	SLOUGH	Berkshire
+B	SMETHWICK	West Midlands
+ME	SNODLAND	Kent
+B	SOLIHULL	West Midlands
+TA	SOMERTON	Somerset
+TQ	SOUTH BRENT	Devon
+CR	SOUTH CROYDON	Surrey
+EX	SOUTH MOLTON	Devon
+RM	SOUTH OCKENDON	Essex
+TA	SOUTH PETHERTON	Somerset
+EH	SOUTH QUEENSFERRY	West Lothian
+NE	SOUTH SHIELDS	Tyne and Wear
+UB	SOUTHALL	Middlesex
+CV	SOUTHAM	Warwickshire
+SO	SOUTHAMPTON	Hampshire
+SS	SOUTHEND-ON-SEA	Essex
+CM	SOUTHMINSTER	Essex
+PR	SOUTHPORT	Merseyside
+PO	SOUTHSEA	Hampshire
+NG	SOUTHWELL	Nottinghamshire
+IP	SOUTHWOLD	Suffolk
+HX	SOWERBY BRIDGE	West Yorkshire
+PE	SPALDING	Lincolnshire
+PH	SPEAN BRIDGE	Inverness-shire
+DL	SPENNYMOOR	County Durham
+PE	SPILSBY	Lincolnshire
+TR	ST. AGNES	Cornwall
+AL	ST. ALBANS	Hertfordshire
+KY	ST. ANDREWS	Fife
+LL	ST. ASAPH	Clwyd
+PL	ST. AUSTELL	Cornwall
+CA	ST. BEES	Cumbria
+TR	ST. COLUMB	Cornwall
+WA	ST. HELENS	Merseyside
+PE	ST. IVES	Cambridgeshire
+TR	ST. IVES	Cornwall
+TN	ST. LEONARDS-ON-SEA	East Sussex
+PE	ST. NEOTS	Cambridgeshire
+ST	STAFFORD	Staffordshire
+TW	STAINES-UPON-THAMES[11]	Middlesex
+SK	STALYBRIDGE	Cheshire
+PE	STAMFORD	Lincolnshire
+SS	STANFORD-LE-HOPE	Essex
+DH	STANLEY	County Durham
+HA	STANMORE	Middlesex
+CM	STANSTED	Essex
+SG	STEVENAGE	Hertfordshire
+KA	STEVENSTON	Ayrshire
+BN	STEYNING	West Sussex
+FK	STIRLING	Stirlingshire
+SO	STOCKBRIDGE	Hampshire
+SK	STOCKPORT	Cheshire
+NE	STOCKSFIELD	Northumberland
+TS	STOCKTON-ON-TEES	Cleveland
+ST	STOKE-ON-TRENT	Staffordshire
+TA	STOKE-SUB-HAMDON	Somerset
+ST	STONE	Staffordshire
+AB	STONEHAVEN	Kincardineshire
+GL	STONEHOUSE	Gloucestershire
+HS	STORNOWAY	Isle of Lewis
+DY	STOURBRIDGE	West Midlands
+DY	STOURPORT-ON-SEVERN	Worcestershire
+IP	STOWMARKET	Suffolk
+BT	STRABANE	County Tyrone
+DG	STRANRAER	Wigtownshire
+CV	STRATFORD-UPON-AVON	Warwickshire
+ML	STRATHAVEN	Lanarkshire
+IV	STRATHCARRON	Ross-shire
+AB	STRATHDON	Aberdeenshire
+IV	STRATHPEFFER	Ross-shire
+BA	STREET	Somerset
+IV	STROME FERRY	Ross-shire
+KW	STROMNESS	Orkney
+GL	STROUD	Gloucestershire
+B	STUDLEY	Warwickshire
+DT	STURMINSTER NEWTON	Dorset
+CO	SUDBURY	Suffolk
+TW	SUNBURY-ON-THAMES	Middlesex
+SR	SUNDERLAND	Tyne and Wear
+KT	SURBITON	Surrey
+SM	SUTTON	Surrey
+B	SUTTON COLDFIELD	West Midlands
+NG	SUTTON-IN-ASHFIELD	Nottinghamshire
+DE	SWADLINCOTE	Derbyshire
+PE	SWAFFHAM	Norfolk
+BH	SWANAGE	Dorset
+BR	SWANLEY	Kent
+DA	SWANSCOMBE	Kent
+SA	SWANSEA	West Glamorgan
+SN	SWINDON	Wiltshire
+LS	TADCASTER	North Yorkshire
+RG	TADLEY	Hampshire
+KT	TADWORTH	Surrey
+IV	TAIN	Ross-shire
+LL	TALSARNAU	Gwynedd
+LL	TALYBONT	Gwynedd
+SY	TALYBONT	Dyfed
+B	TAMWORTH	Staffordshire
+PA	TARBERT	Argyll
+CW	TARPORLEY	Cheshire
+TA	TAUNTON	Somerset
+PL	TAVISTOCK	Devon
+PA	TAYNUILT	Argyll
+DD	TAYPORT	Fife
+TW	TEDDINGTON	Middlesex
+TQ	TEIGNMOUTH	Devon
+TF	TELFORD	Shropshire
+BA	TEMPLECOMBE	Somerset
+WR	TENBURY WELLS	Worcestershire
+SA	TENBY	Dyfed
+TN	TENTERDEN	Kent
+GL	TETBURY	Gloucestershire
+GL	TEWKESBURY	Gloucestershire
+OX	THAME	Oxfordshire
+KT	THAMES DITTON	Surrey
+RG	THATCHAM	Berkshire
+IP	THETFORD	Norfolk
+YO	THIRSK	North Yorkshire
+DG	THORNHILL	Dumfriesshire
+CR	THORNTON HEATH	Surrey
+FY	THORNTON-CLEVELEYS	Lancashire
+KW	THURSO	Caithness
+SP	TIDWORTH	Hampshire
+PA	TIGHNABRUAICH	Argyll
+RM	TILBURY	Essex
+FK	TILLICOULTRY	Clackmannanshire
+PL	TINTAGEL	Cornwall
+DY	TIPTON	West Midlands
+EX	TIVERTON	Devon
+OL	TODMORDEN	Lancashire
+TN	TONBRIDGE	Kent
+CF	TONYPANDY	Mid Glamorgan
+PL	TORPOINT	Cornwall
+TQ	TORQUAY	Devon
+EX	TORRINGTON	Devon
+PO	TOTLAND BAY	Isle of Wight
+TQ	TOTNES	Devon
+NN	TOWCESTER	Northamptonshire
+EH	TRANENT	East Lothian
+NP	TREDEGAR	Gwent
+LL	TREFRIW	Gwynedd
+SY	TREGARON	Dyfed
+CF	TREHARRIS	Mid Glamorgan
+CF	TREORCHY	Mid Glamorgan
+TS	TRIMDON STATION	County Durham
+HP	TRING	Hertfordshire
+KA	TROON	Ayrshire
+BA	TROWBRIDGE	Wiltshire
+TR	TRURO	Cornwall
+TN	TUNBRIDGE WELLS	Kent
+AB	TURRIFF	Aberdeenshire
+TW	TWICKENHAM	Middlesex
+LL	TY CROES	Gwynedd
+LL	TYN-Y-GONGL	Gwynedd
+LL	TYWYN	Gwynedd
+TN	UCKFIELD	East Sussex
+DN	ULCEBY	South Humberside
+IV	ULLAPOOL	Ross-shire
+LA	ULVERSTON	Cumbria
+EX	UMBERLEIGH	Devon
+RM	UPMINSTER	Essex
+NP	USK	Gwent
+ST	UTTOXETER	Staffordshire
+UB	UXBRIDGE	Middlesex
+PO	VENTNOR	Isle of Wight
+BH	VERWOOD	Dorset
+GU	VIRGINIA WATER	Surrey
+PL	WADEBRIDGE	Cornwall
+TN	WADHURST	East Sussex
+WF	WAKEFIELD	West Yorkshire
+EH	WALKERBURN	Peeblesshire
+CH	WALLASEY	Merseyside
+OX	WALLINGFORD	Oxfordshire
+SM	WALLINGTON	Surrey
+NE	WALLSEND	Tyne and Wear
+WS	WALSALL	West Midlands
+NR	WALSINGHAM	Norfolk
+EN	WALTHAM ABBEY	Essex
+EN	WALTHAM CROSS	Hertfordshire
+CO	WALTON ON THE NAZE	Essex
+KT	WALTON-ON-THAMES	Surrey
+OX	WANTAGE	Oxfordshire
+SG	WARE	Hertfordshire
+BH	WAREHAM	Dorset
+CR	WARLINGHAM	Surrey
+BA	WARMINSTER	Wiltshire
+WA	WARRINGTON	Cheshire
+CV	WARWICK	Warwickshire
+NE	WASHINGTON	Tyne and Wear
+TA	WATCHET	Somerset
+PO	WATERLOOVILLE	Hampshire
+WD	WATFORD	Hertfordshire
+OX	WATLINGTON	Oxfordshire
+BS	WEDMORE	Somerset
+WS	WEDNESBURY	West Midlands
+DA	WELLING	Kent
+NN	WELLINGBOROUGH	Northamptonshire
+TA	WELLINGTON	Somerset
+BA	WELLS	Somerset
+NR	WELLS-NEXT-THE-SEA	Norfolk
+SY	WELSHPOOL	Powys
+AL	WELWYN	Hertfordshire
+AL	WELWYN GARDEN CITY	Hertfordshire
+HA	WEMBLEY	Middlesex
+PA	WEMYSS BAY	Renfrewshire
+B	WEST BROMWICH	West Midlands
+KT	WEST BYFLEET	Surrey
+EH	WEST CALDER	West Lothian
+UB	WEST DRAYTON	Middlesex
+KA	WEST KILBRIDE	Ayrshire
+EH	WEST LINTON	Peeblesshire
+ME	WEST MALLING	Kent
+KT	WEST MOLESEY	Surrey
+BR	WEST WICKHAM	Kent
+BA	WESTBURY	Wiltshire
+GL	WESTBURY-ON-SEVERN	Gloucestershire
+SS	WESTCLIFF-ON-SEA	Essex
+TN	WESTERHAM	Kent
+CT	WESTGATE-ON-SEA	Kent
+AB	WESTHILL	Aberdeenshire
+BS	WESTON-SUPER-MARE	Avon
+LS	WETHERBY	West Yorkshire
+KT	WEYBRIDGE	Surrey
+DT	WEYMOUTH	Dorset
+YO	WHITBY	North Yorkshire
+RG	WHITCHURCH	Hampshire
+SY	WHITCHURCH	Shropshire
+CA	WHITEHAVEN	Cumbria
+SA	WHITLAND	Dyfed
+NE	WHITLEY BAY	Tyne and Wear
+CT	WHITSTABLE	Kent
+CR	WHYTELEAFE	Surrey
+KW	WICK	Caithness
+SS	WICKFORD	Essex
+WA	WIDNES	Cheshire
+WN	WIGAN	Lancashire
+LE	WIGSTON	Leicestershire
+CA	WIGTON	Cumbria
+WV	WILLENHALL	West Midlands
+SK	WILMSLOW	Cheshire
+BH	WIMBORNE	Dorset
+BA	WINCANTON	Somerset
+TN	WINCHELSEA	East Sussex
+SO	WINCHESTER	Hampshire
+LA	WINDERMERE	Cumbria
+GU	WINDLESHAM	Surrey
+SL	WINDSOR	Berkshire
+TS	WINGATE	County Durham
+EX	WINKLEIGH	Devon
+BS	WINSCOMBE	Avon
+CW	WINSFORD	Cheshire
+CH	WIRRAL	Merseyside
+PE	WISBECH	Cambridgeshire
+ML	WISHAW	Lanarkshire
+CM	WITHAM	Essex
+HU	WITHERNSEA	North Humberside
+OX	WITNEY	Oxfordshire
+GU	WOKING	Surrey
+RG	WOKINGHAM	Berkshire
+WV	WOLVERHAMPTON	West Midlands
+IP	WOODBRIDGE	Suffolk
+IG	WOODFORD GREEN	Essex
+LN	WOODHALL SPA	Lincolnshire
+OX	WOODSTOCK	Oxfordshire
+EX	WOOLACOMBE	Devon
+NE	WOOLER	Northumberland
+WR	WORCESTER	Worcestershire
+KT	WORCESTER PARK	Surrey
+CA	WORKINGTON	Cumbria
+S	WORKSOP	Nottinghamshire
+BN	WORTHING	West Sussex
+GL	WOTTON-UNDER-EDGE	Gloucestershire
+LL	WREXHAM	Clwyd
+NE	WYLAM	Northumberland
+NR	WYMONDHAM	Norfolk
+LL	Y FELINHELI	Gwynedd
+TS	YARM	Cleveland
+PO	YARMOUTH	Isle of Wight
+GU	YATELEY	Hampshire
+PL	YELVERTON	Devon
+BA	YEOVIL	Somerset
+YO	YORK	North Yorkshire
+SY	YSTRAD MEURIG	Dyfed
